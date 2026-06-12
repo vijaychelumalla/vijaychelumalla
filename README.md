@@ -1,73 +1,112 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vijay+%F0%9F%91%8B;Full+Stack+Developer;MERN+%7C+React+%7C+Node.js;Building+AI-powered+web+apps" alt="Typing SVG" />
+</h1>
 
-# Hey, I'm Vijay 👋
-
-**Full Stack Developer** who builds things people actually use.  
-I work with the MERN stack, love clean UI, and I'm always shipping something new.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-chelumalla-63978b367/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chelumallavijay1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://foodie-ordr.vercel.app)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijay-chelumalla-63978b367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chelumallavijay1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vijaychelumalla&color=7F77DD&style=for-the-badge&label=Profile+Views" />
+</p>
 
 ---
 
 ## 🙋 About Me
 
 - 🔨 I build full-stack web apps — from idea to deployed product
-- 🤖 Currently focused on integrating AI into real-world applications
-- 🎯 Looking for a **full-time role** where I can contribute fast and keep growing
-- 📍 Based in India, open to remote opportunities
+- 🤖 Interested in integrating AI into real-world applications
+- 🎯 Actively looking for a **full-time developer role**
+- 📍 Based in India · Open to remote opportunities
+- 📫 Reach me at **chelumallavijay1@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🤖 AI Interview Preparation App
-> Practice interviews with an AI that gives you real-time feedback — no more cold applications blind.
-
-- Built with **React**, **Node.js**, and an AI evaluation engine
-- Helps candidates prep for technical & HR interviews with smart question generation
-- **[🔗 Live Demo](https://interview-bot-ai.netlify.app/)**  |  **[📁 Repo](https://github.com/vijaychelumalla/AI-Interview-App)**
-
----
-
-### 🍔 Foodie App — Zomato Clone
-> Full-stack food ordering experience from browsing restaurants to placing an order.
-
-- Full **MERN stack** — MongoDB, Express, React, Node
-- Includes auth, cart, and responsive design with **Tailwind CSS**
-- **[🔗 Live Demo](https://foodie-ordr.vercel.app/)**  |  **[📁 Repo](https://github.com/vijaychelumalla/foodie-app)**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaychelumalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaychelumalla&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaychelumalla&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vijaychelumalla&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaychelumalla&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vijaychelumalla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaychelumalla&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Preparation App
+> Practice interviews with AI-generated questions and real-time feedback — built for job seekers who want to prep smart, not just hard.
+
+- 🧠 AI-powered question generation and answer evaluation
+- ⚛️ Built with **React**, **Node.js**, and **Express**
+- ☁️ Deployed on **Netlify**
+
+<p>
+  <a href="https://interview-bot-ai.netlify.app/">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vijaychelumalla/AI-Interview-App">
+    <img src="https://img.shields.io/badge/📁_Source_Code-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🍔 Foodie App — Zomato Clone
+> End-to-end food ordering experience — browse restaurants, add to cart, and place orders. Full MERN stack with a clean Tailwind UI.
+
+- 🗄️ Full **MERN stack** — MongoDB, Express, React, Node
+- 💨 Styled with **Tailwind CSS**, fully responsive
+- ☁️ Deployed on **Vercel**
+
+<p>
+  <a href="https://foodie-ordr.vercel.app/">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vijaychelumalla/foodie-app">
+    <img src="https://img.shields.io/badge/📁_Source_Code-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaychelumalla/vijaychelumalla/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaychelumalla/vijaychelumalla/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vijaychelumalla/vijaychelumalla/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -75,11 +114,17 @@ I work with the MERN stack, love clean UI, and I'm always shipping something new
 
 I'm actively looking for **full-time developer roles**. If you're building something interesting and need someone who ships — let's talk.
 
-📧 [chelumallavijay1@gmail.com](mailto:chelumallavijay1@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/vijay-chelumalla-63978b367/)
+<p>
+  <a href="https://www.linkedin.com/in/vijay-chelumalla-63978b367/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chelumallavijay1@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaychelumalla&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Let's+build+something+great+together." alt="footer typing" />
+</p>
