@@ -57,9 +57,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaychelumalla&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaychelumalla&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaychelumalla&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ## 🚀 Featured Projects
